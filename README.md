@@ -19,4 +19,4 @@ I am currently documenting my journey into the soul of the machine.
 
 ---
 
-💛*“Code is not just syntax; it is the manifestation of logical consciousness.”* 🚩
+💛*“Code is not just syntax; it is the manifestation of logical consciousness.”* 
