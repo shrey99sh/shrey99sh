@@ -1,6 +1,6 @@
 # Hi there 👋 
 🌻 I am Shreyansh Vyas.
-Software engineer with 5+ years of experience building interactive web and mobile systems.
+Software engineer with 4+ years of experience building interactive web and mobile systems.
 
 Previously focused on application development using React, Next.js, and React Native.
 
